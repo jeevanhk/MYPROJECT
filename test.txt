@@ -1,1 +1,1 @@
-echo"hello git "
+echo"welcome to devops"
